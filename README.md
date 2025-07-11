@@ -122,11 +122,11 @@ The final report should contain the following two pages:
 
 (Most of the time, you would have sample designs, mock-ups, and wireframes of the visuals/reports)
 
-1. Page 1
+1. Home Page
 
 <img width="1073" height="614" alt="Image" src="https://github.com/user-attachments/assets/a8ec10f3-9f1e-43ac-93d5-4850994ea42f" />
 
-2. Page 2
+2. Summery
 
 <img width="1078" height="618" alt="Image" src="https://github.com/user-attachments/assets/bf635660-bd03-40f9-b59d-b1bf0e4cdc4b" />
 
